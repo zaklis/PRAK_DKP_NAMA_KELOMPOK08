@@ -221,7 +221,10 @@ int menu(){
 	cout<<"=========Program PPDB========="<<endl;
 	cout<<"==   SMK NEGERI KELOMPOK 8   =="<<endl;
 	cout<<"|==========BERANDA===========|"<<endl;
-	cout<<"Anissa Soraya Fujimoto(21120121140104)"<<end1;
+	cout<<"|Anissa Soraya Fujimoto(21120121140104)|"<<endl;
+	cout<<"|Maritza Septiarini (21120121140122)|"<<endl;
+	cout<<"|Muhamad Zaki Listian(21120121140125)|"<<endl;
+	cout<<"|Muhamad Alfito(21120121130061)|"<<endl;
 	cout<<"|============================|"<<endl;
 	cout<<"|1. Profil                   |"<<endl;
 	cout<<"|2. Kempetensi Keahlian      |"<<endl;
